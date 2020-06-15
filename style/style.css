@@ -1,0 +1,118 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 1400px;
+}
+header {
+    background: url(../img/head-design.png) no-repeat;
+    height: 710px; 
+}
+.navigation {
+    background-color: black;
+    
+}
+.logo {
+    background: url(../img/Logo.png) no-repeat;
+    width: 79px;
+    height: 27px;
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 19px;
+}
+.menu {
+   text-align: center;
+   display: inline-block;
+   margin-left: 582px;
+   margin-bottom: 27px;
+   
+}
+.menu li {
+    display: inline-block;
+    font-size: 14px;
+    color: #FFFFFF;
+    padding-right: 45px;
+    font-family: 'Open Sans',sans-serif; 
+    
+}
+.banner {
+    background: url(../img/banner.png) no-repeat;
+    width: 175px;
+    height: 60px;
+    display: block;
+    margin-top: 109px;
+    margin-left: 150px;
+}
+p {
+    font-size: 36px;
+    color: #FFFFFF;
+    font-family: 'Raleway',sans-serif;
+    margin-left: 150px;
+    margin-top: 33px;
+}
+hr {
+    height: 2px;
+    width: 74px;
+    background-color: #FFFFFF;
+    margin-left: 150px;
+    margin-top: 36px;
+}
+.lorem {
+    font-family: 'Raleway',sans-serif;
+    font-size: 16px;
+    margin-top: 30px;
+}
+button {
+    width: 135px;
+    height: 42px;
+    background-color: transparent;
+    border: 2px solid #FFFFFF;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFFFFF;
+    margin-left: 150px;
+    margin-top: 44px;
+}
+.trial {
+    display: inline-block;
+}
+form {
+    
+}
+
+.communication {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.smedia {
+    color: black;
+    font-size: 20px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 900;
+    margin-top: 23px;
+}
+.glory {
+    color: #86878B;
+    font-size: 14px;
+    font-family: 'Open Sans',sans-serif;
+    margin-top: 12px;
+}
+.network {
+    background: url(../img/Social\ Media\ Icons.png) no-repeat;
+    width: 634px;
+    height: 46px;
+    display: inline-block;
+    margin-left: 89px;
+    margin-bottom: 10px;
+}
+section {
+    background-color: #F5F5F5;
+}
+.table {
+    
+}
+.square-top {
+    
+}
